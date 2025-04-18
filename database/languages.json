@@ -1,0 +1,17 @@
+{
+    "fra": {
+        "code": "fra",
+        "name": "Français",
+        "flagCode": "fra"
+    },
+    "gbr": {
+        "code": "gbr",
+        "name": "Anglais",
+        "flagCode": "gbr"
+    },
+    "esp": {
+        "code": "esp",
+        "name": "Espagnol",
+        "flagCode": "esp"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "AVS": {
+        "code": "AVS",
+        "name": "Audiovisuel",
+        "emoji": "🎬"
+    },
+    "GPH": {
+        "code": "GPH",
+        "name": "Graphic Design",
+        "emoji": "🖌"
+    },
+    "3DD": {
+        "code": "3DD",
+        "name": "3D Development",
+        "emoji": "️✖️"
+    },
+    "3DP": {
+        "code": "3DP",
+        "name": "3D Production",
+        "emoji": "🧱"
+    },
+    "WEB": {
+        "code": "WEB",
+        "name": "Web Development",
+        "emoji": "🕸"
+    },
+    "GAM": {
+        "code": "GAM",
+        "name": "Game Development",
+        "emoji": "🎮"
+    },
+    "ANI": {
+        "code": "ANI",
+        "name": "Animation",
+        "emoji": "️🏃‍♀️"
+    },
+    "VFX": {
+        "code": "VFX",
+        "name": "Visual Effects",
+        "emoji": "✨"
+    },
+    "MOB": {
+        "code": "MOB",
+        "name": "Mobile Development",
+        "emoji": "📱"
+    },
+    "INT": {
+        "code": "INT",
+        "name": "Interaction Design",
+        "emoji": "️💻"
+    },
+    "COM": {
+        "code": "COM",
+        "name": "Communication",
+        "emoji": "️📢"
+    },
+    "MRK": {
+        "code": "MRK",
+        "name": "Marketing",
+        "emoji": "📈 "
+    },
+    "DA": {
+        "code": "DA",
+        "name": "Digital Art",
+        "emoji": "️🖼"
+    },
+    "UI": {
+        "code": "UI",
+        "name": "User Interface Design",
+        "emoji": "🎨"
+    },
+    "UX": {
+        "code": "UX",
+        "name": "User Experience Design",
+        "emoji": "🧩"
+    },
+    "CYB": {
+        "code": "CYB",
+        "name": "Cybersecurity",
+        "emoji": "🕶"
+    },
+    "AI": {
+        "code": "AI",
+        "name": "Artificial Intelligence",
+        "emoji": "🤖"
+    }
+}

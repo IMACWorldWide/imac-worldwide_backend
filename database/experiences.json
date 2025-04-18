@@ -1,0 +1,147 @@
+[
+    {
+        "id": 0,
+        "title": "John Doe a l'UNLP",
+        "imageURL": "http://images.unsplash.com/photo-1570337581281-95b83b8c6141?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+        "departure_date": "2021-01-01",
+        "return_date": "2021-01-10",
+        "relation": "unlp",
+        "tags": [
+            "GAM",
+            "WEB"
+        ],
+        "courses": [
+            {
+                "name": "Interactive Media Arts",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+                "language": "gbr"
+            }
+        ],
+        "contact": {
+            "name": "John Doe",
+            "class": "IMAC2023",
+            "email": "john.doe@mail.com",
+            "phone": "1234567890",
+            "linkedin": "https://www.linkedin.com/in/johndoe",
+            "discord": "johndoe#1234",
+            "instagram": "https://www.instagram.com/johndoe"
+        }
+    },
+    {
+        "id": 1,
+        "title": "Jane Doe a l'UQAT",
+        "imageURL": "https://media.istockphoto.com/id/1768985857/photo/university-students-hanging-out-in-campus.webp?b=1&s=612x612&w=0&k=20&c=O36-zuL516331fezqf6H2QklGdafFbDkqQyHDqGwCl0=",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+        "departure_date": "2021-01-01",
+        "return_date": "2021-01-10",
+        "relation": "cetys",
+        "tags": [
+            "3DD",
+            "3DP"
+        ],
+        "courses": [
+            {
+                "name": "3D Animation",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+                "language": "fra"
+            }
+        ],
+        "contact": {
+            "name": "Jane Doe",
+            "class": "3D2023",
+            "email": "jane.doe@mail.com",
+            "phone": "0987654321",
+            "linkedin": "https://www.linkedin.com/in/janedoe",
+            "discord": "janedoe#1234",
+            "instagram": "https://www.instagram.com/janedoe"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Jack Doe a l'UQAC",
+        "imageURL": "https://media.istockphoto.com/id/1768985857/photo/university-students-hanging-out-in-campus.webp?b=1&s=612x612&w=0&k=20&c=O36-zuL516331fezqf6H2QklGdafFbDkqQyHDqGwCl0=",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+        "departure_date": "2021-01-01",
+        "return_date": "2021-01-10",
+        "relation": "nkust",
+        "tags": [
+            "GAM",
+            "WEB"
+        ],
+        "courses": [
+            {
+                "name": "Interactive Media Arts",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+                "language": "gbr"
+            }
+        ],
+        "contact": {
+            "name": "Jack Doe",
+            "class": "IMAC2023",
+            "email": "jack.doe@mail.com",
+            "phone": "1234567890",
+            "linkedin": "https://www.linkedin.com/in/jackdoe",
+            "discord": "jackdoe#1234",
+            "instagram": "https://www.instagram.com/jackdoe"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Jill Doe a l'UQAC",
+        "imageURL": "https://media.istockphoto.com/id/1768985857/photo/university-students-hanging-out-in-campus.webp?b=1&s=612x612&w=0&k=20&c=O36-zuL516331fezqf6H2QklGdafFbDkqQyHDqGwCl0=",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+        "departure_date": "2021-01-01",
+        "return_date": "2021-01-10",
+        "relation": "nthu",
+        "tags": [
+            "GAM",
+            "WEB"
+        ],
+        "courses": [
+            {
+                "name": "Interactive Media Arts",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+                "language": "gbr"
+            }
+        ],
+        "contact": {
+            "name": "Jill Doe",
+            "class": "IMAC2023",
+            "email": "jill.doe@mail.com",
+            "phone": "1234567890",
+            "linkedin": "https://www.linkedin.com/in/jilldoe",
+            "discord": "jilldoe#1234",
+            "instagram": "https://www.instagram.com/jilldoe"
+        }
+    },
+    {
+        "id": 4,
+        "title": "John Doe a l'UNLP",
+        "imageURL": "http://images.unsplash.com/photo-1570337581281-95b83b8c6141?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9",
+        "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+        "departure_date": "2021-01-01",
+        "return_date": "2021-01-10",
+        "relation": "unlp",
+        "tags": [
+            "GAM",
+            "WEB"
+        ],
+        "courses": [
+            {
+                "name": "Interactive Media Arts",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat voluptatem alias iusto dignissimos modi explicabo aliquam delectus accusamus, deleniti, id debitis autem et. Voluptates temporibus consequuntur laborum maiores accusamus aperiam?",
+                "language": "gbr"
+            }
+        ],
+        "contact": {
+            "name": "John Doe",
+            "class": "IMAC2023",
+            "email": "john.doe@mail.com",
+            "phone": "1234567890",
+            "linkedin": "https://www.linkedin.com/in/johndoe",
+            "discord": "johndoe#1234",
+            "instagram": "https://www.instagram.com/johndoe"
+        }
+    }
+]

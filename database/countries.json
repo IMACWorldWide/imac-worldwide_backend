@@ -1,0 +1,86 @@
+{
+    "arg": {
+        "code": "arg",
+        "name": "Argentine",
+        "emoji": "🇦🇷",
+        "flagSource": "argentine.png"
+    },
+    "can": {
+        "code": "can",
+        "name": "Canada",
+        "emoji": "🇨🇦",
+        "flagSource": "canada.png"
+    },
+    "chn": {
+        "code": "chn",
+        "name": "Chine",
+        "emoji": "🇨🇳",
+        "flagSource": "china.png"
+    },
+    "fra": {
+        "code": "fra",
+        "name": "France",
+        "emoji": "🇫🇷",
+        "flagSource": "france.png"
+    },
+    "deu": {
+        "code": "deu",
+        "name": "Allemagne",
+        "emoji": "🇩🇪",
+        "flagSource": "germany.png"
+    },
+    "gbr": {
+        "code": "gbr",
+        "name": "Royaume-Uni",
+        "emoji": "🇬🇧",
+        "flagSource": "great-britain.png"
+    },
+    "irl": {
+        "code": "irl",
+        "name": "Irlande",
+        "emoji": "🇮🇪",
+        "flagSource": "ireland.png"
+    },
+    "jpn": {
+        "code": "jpn",
+        "name": "Japon",
+        "emoji": "🇯🇵",
+        "flagSource": "japan.png"
+    },
+    "kor": {
+        "code": "kor",
+        "name": "Corée du Sud",
+        "emoji": "🇰🇷",
+        "flagSource": "korea.png"
+    },
+    "rus": {
+        "code": "rus",
+        "name": "Russie",
+        "emoji": "🇷🇺",
+        "flagSource": "russia.png"
+    },
+    "esp": {
+        "code": "esp",
+        "name": "Espagne",
+        "emoji": "🇪🇸",
+        "flagSource": "spain.png"
+    },
+    "usa": {
+        "code": "usa",
+        "name": "État-Unis",
+        "emoji": "🇺🇸",
+        "flagSource": "united-states.png"
+    },
+    "twn": {
+        "code": "twn",
+        "name": "Taïwan",
+        "emoji": "🇹🇼",
+        "flagSource": "taiwan.png"
+    },
+    "mex": {
+        "code": "mex",
+        "name": "Mexique",
+        "emoji": "🇲🇽",
+        "flagSource": "mexico.png"
+    }
+}

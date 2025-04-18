@@ -1,0 +1,153 @@
+{
+    "unlp": {
+        "id": 1,
+        "code": "unlp",
+        "name": "Universidad Nacional de La Plata",
+        "description": "L'UNLP est une université de recherche nationale publique. Elle a été fondée en 1905 et est l'une des universités les plus prestigieuses d'Argentine. L'UNLP propose un large éventail de programmes de premier cycle et de deuxième cycle dans divers domaines, notamment les sciences, les sciences humaines, l'ingénierie et le droit. L'université est également connue pour ses recherches dans des domaines tels que l'agriculture, la médecine et l'énergie.",
+        "locations": [
+            "Buenos Aires"
+        ],
+        "imageURL": "https://i0.wp.com/pulsonoticias.com.ar/wp-content/uploads/2020/08/unlp-La-Plata-scaled.jpg",
+        "country": "arg",
+        "languages": [
+            "esp"
+        ],
+        "tags": [
+            "GAM",
+            "WEB"
+        ]
+    },
+    "uqat": {
+        "id": 2,
+        "code": "uqat",
+        "name": "Université du Québec en Abitibi-Témiscamingue",
+        "description": "L'Université du Québec en Abitibi-Témiscamingue (UQAT) est un établissement d'enseignement supérieur francophone reconnu pour son approche personnalisée et à échelle humaine de l'éducation. Située dans la pittoresque région de l'Abitibi-Témiscamingue, au Québec, cette université offre un environnement d'apprentissage unique où les étudiants peuvent s'épanouir tant sur le plan académique que personnel.",
+        "locations": [
+            "Nord-du-Québec",
+            "Hautes-Laurentides",
+            "Montréal"
+        ],
+        "imageURL": "https://d3d0lqu00lnqvz.cloudfront.net/media/media/b3cae14d-fee2-4e29-b32b-565071796af7.jpg",
+        "country": "can",
+        "languages": [
+            "fra",
+            "gbr"
+        ],
+        "tags": [
+            "3DD",
+            "3DP"
+        ]
+    },
+    "nthu": {
+        "id": 3,
+        "code": "nthu",
+        "name": "National Tsing Hua University",
+        "description": "La National Tsing Hua University (NTHU) est une université de recherche nationale située à Hsinchu, à Taiwan. Fondée en 1911, la NTHU est considérée comme l'une des universités les plus prestigieuses de Taiwan. Elle est particulièrement réputée pour ses programmes en sciences, en ingénierie et en technologie.",
+        "locations": [
+            "Hsinchu"
+        ],
+        "imageURL": "https://edufair.aicee.org.tw/wp-content/uploads/listing-uploads/gallery/2021/09/21199759_1556336724422350_5910995498892731187_o.jpg",
+        "country": "twn",
+        "languages": [
+            "zho",
+            "eng"
+        ],
+        "tags": []
+    },
+    "nsysu": {
+        "id": 4,
+        "code": "nsysu",
+        "name": "National Sun Yat-Sen University",
+        "description": "La National Sun Yat-Sen University (NSYSU) est une université de recherche nationale située à Kaohsiung, à Taiwan. Fondée en 1980, la NSYSU est l'une des universités les plus jeunes et les plus dynamiques de Taiwan. Elle est réputée pour ses programmes en sciences marines, en gestion et en sciences sociales.",
+        "locations": [
+            "Kaohsiung"
+        ],
+        "imageURL": "http://www.sz.gov.cn/img/2/2261/2261313/9714761.jpg",
+        "country": "twn",
+        "languages": [
+            "zho",
+            "eng"
+        ],
+        "tags": []
+    },
+    "nkust": {
+        "id": 5,
+        "code": "nkust",
+        "name": "National Kaohsiung University of Applied Sciences",
+        "description": "La National Kaohsiung University of Applied Sciences (NKUST) est une université de technologie nationale située à Kaohsiung, à Taiwan. Fondée en 1963, la NKUST est l'une des plus grandes universités de sciences appliquées de Taiwan. Elle est réputée pour ses programmes en ingénierie, en technologie et en gestion.",
+        "locations": [
+            "Kaohsiung"
+        ],
+        "imageURL": "https://smapse.com/storage/2019/02/national-kaohsiung-university-of-applied-sciences-kuas-2.jpg",
+        "country": "twn",
+        "languages": [
+            "zho",
+            "eng"
+        ],
+        "tags": []
+    },
+    "ncku": {
+        "id": 6,
+        "code": "ncku",
+        "name": "National Cheng Kung University",
+        "description": "La National Cheng Kung University (NCKU) est une université de recherche nationale située à Tainan, à Taiwan. Fondée en 1931, la NCKU est l'une des universités les plus anciennes et les plus prestigieuses de Taiwan. Elle est particulièrement réputée pour ses programmes en ingénierie, en sciences et en médecine.",
+        "locations": [
+            "Tainan"
+        ],
+        "imageURL": "https://media.glassdoor.com/l/f1/f2/31/a6/ncku.jpg",
+        "country": "twn",
+        "languages": [
+            "zho",
+            "eng"
+        ],
+        "tags": []
+    },
+    "unam": {
+        "id": 7,
+        "code": "unam",
+        "name": "Universidad Nacional Autónoma de México",
+        "description": "L'Universidad Nacional Autónoma de México (UNAM) est une université de recherche publique située à Mexico, au Mexique. Fondée en 1551, l'UNAM est l'une des plus anciennes universités d'Amérique et l'une des plus grandes du monde. Elle est réputée pour ses programmes en sciences, en sciences humaines et en arts.",
+        "locations": [
+            "Mexico"
+        ],
+        "imageURL": "http://rediberoestudios.org/wp-content/uploads/2020/08/universidad-02.jpg",
+        "country": "mex",
+        "languages": [
+            "esp"
+        ],
+        "tags": []
+    },
+    "uam": {
+        "id": 8,
+        "code": "uam",
+        "name": "Universidad Autónoma Metropolitana",
+        "description": "L'Universidad Autónoma Metropolitana (UAM) est une université publique située à Mexico, au Mexique. Fondée en 1974, l'UAM est l'une des universités les plus jeunes et les plus dynamiques du Mexique. Elle est réputée pour ses programmes en sciences sociales, en sciences humaines et en arts.",
+        "locations": [
+            "Mexico"
+        ],
+        "imageURL": "https://www.comunicacionsocial.uam.mx/boletinesuam/617-22.jpg",
+        "country": "mex",
+        "languages": [
+            "esp"
+        ],
+        "tags": []
+    },
+    "cetys": {
+        "id": 9,
+        "code": "cetys",
+        "name": "CETYS Universidad",
+        "description": "Le CETYS Universidad est une université privée située à Tijuana, au Mexique. Fondée en 1961, le CETYS est l'une des universités privées les plus prestigieuses du Mexique. Elle est réputée pour ses programmes en gestion, en ingénierie et en sciences sociales.",
+        "locations": [
+            "Tijuana",
+            "Mexicali",
+            "Ensenada"
+        ],
+        "imageURL": "http://www.cetys.mx/wp-content/uploads/2017/01/Tijuana-1.jpg",
+        "country": "mex",
+        "languages": [
+            "esp",
+            "eng"
+        ],
+        "tags": []
+    }
+}
